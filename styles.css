@@ -1,0 +1,55 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(42, 42, 42);
+}
+
+img {
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+}
+
+#produtos {
+    font-family: arial;
+    color: rgb(223, 193, 26);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/*degrade do produtos*/
+#produtos {
+    background: -webkit-linear-gradient(bottom, #ee9b0f 0%, #facc45 100%);
+    background: linear-gradient(to top, #ee9b0f 0%, #facc45 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+li {
+    margin-top: 7px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#faqs {
+    color: whitesmoke;
+    text-align: left;
+    margin-top: 15px;
+}
+
+#resposta {
+    font-size: 20px;
+    color: wheat;
+}
+
+p {
+    color: whitesmoke;
+}
+
+footer {
+    margin-top: 200px;
+}
