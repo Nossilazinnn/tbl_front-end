@@ -54,3 +54,7 @@ p {
 footer {
     margin-top: 200px;
 }
+
+#banner {
+    background-image: url(./img/csgo3.png);
+}
