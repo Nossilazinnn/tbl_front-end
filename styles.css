@@ -1,4 +1,5 @@
 body {
+    background-image: url(./img/csgo3.png);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:rgb(42, 42, 42);
 }
@@ -52,7 +53,13 @@ p {
 }
 
 footer {
-    margin-top: 200px;
+    margin-top:30px;
+    background-color: black;
+    padding: 60px;
+}
+
+#nãonosresponsabilizamos {
+    
 }
 
 #banner {
