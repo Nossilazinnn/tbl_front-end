@@ -4,12 +4,12 @@ body {
     font-family: 'Courier New';
 }
 
-h1 {
+#produtos {
     font-family: sans-serif;
     font-size: 55px;
     font-weight: bold;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 70px;
     margin-bottom: 30px;
 }
 
@@ -62,7 +62,7 @@ P {
     margin-top: 10px;
 }
 
-button {
+.comprar {
     margin-top: 20px;
     background-color: #491e8f;
     color: white;
@@ -73,13 +73,13 @@ button {
     border-radius: 10px;
 }
 
-button:hover {
+.comprar:hover {
     background-color: #3b1bc7;
     transition: 0.2s;
     cursor: pointer;
 }
 
-button:active {
+.comprar:active {
     background-color: #088C19;
 	border-color: #088C19;
 }
