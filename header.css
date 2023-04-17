@@ -1,4 +1,72 @@
+body {
+    font-family: Arial;
+}
 
+.ancora {
+    background-color: black;
+    height: 55px;
+    width: 100%;
+    padding-right: 100%;
+
+    position: fixed;
+
+    color: white;
+    font-size: 50px;
+}
+
+h1 {
+    position: absolute;
+    top: 21px;
+    margin-left: 50px;
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#contato {
+    position: absolute;
+    top: 13px;
+    left: 1127px;
+
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#contato:hover {
+    transition: 0.5s;
+    color: rgb(208, 230, 245);
+}
+
+#contato:active {
+    transition: 0.5s;
+    color: rgb(182, 198, 207);
+}
+
+#login {
+    position: absolute;
+    top: 12px;
+    left: 1250px;
+    
+    background-color: white;
+    color: black;
+    width: 105px;
+    height: 30px;
+    font-size: 20px;
+    border: 1px white solid;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+#login:hover {
+    transition: 0.5s;
+    background-color: rgb(208, 230, 245);
+}
+
+#login:active {
+    transition: 0.5s;
+    background-color: rgb(182, 198, 207);
+}
 
 #banner {
     width: 100%;
