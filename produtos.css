@@ -59,11 +59,11 @@ P {
     font-family: sans-serif;
     text-align: center;
     font-size: 35px;
-    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .comprar {
-    margin-top: 20px;
+    margin-bottom: 10px;
     background-color: #491e8f;
     color: white;
     font-size: 20px;
@@ -75,6 +75,7 @@ P {
 
 .comprar:hover {
     background-color: #3b1bc7;
+    border: 1px #3b1bc7 solid;
     transition: 0.2s;
     cursor: pointer;
 }
