@@ -1,0 +1,17 @@
+footer {
+    margin-top:30px;
+    background-color: rgb(14, 14, 14);
+    padding: 40px;
+}
+
+#nãonosresponsabilizamos {
+    margin-top: 120px;
+    position: absolute;
+    right: 10px;
+    color: rgb(66, 66, 66);
+}
+
+#logo {
+    width: 80px;
+    margin-top: auto;
+}
