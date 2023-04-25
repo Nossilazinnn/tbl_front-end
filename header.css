@@ -6,7 +6,6 @@ body {
     background-color: black;
     height: 55px;
     width: 100%;
-    padding-right: 100%;
 
     position: fixed;
     top: 0;
@@ -39,7 +38,7 @@ a {
 #contato {
     position: absolute;
     top: 13.5px;
-    left: 1145px;
+    right: 115px;
 
     color: white;
     font-size: 25px;
@@ -59,11 +58,11 @@ a {
 #login {
     position: absolute;
     top: 12px;
-    left: 1270px;
+    right: 15px;
     
     background-color: white;
     color: black;
-    width: 105px;
+    width: 85px;
     height: 30px;
     font-size: 20px;
     border: 1px white solid;
