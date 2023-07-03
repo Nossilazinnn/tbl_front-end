@@ -1,0 +1,42 @@
+body {
+    background-image: url(./img/csgo3.png);
+}
+
+form {
+    margin: 50px;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.formulario {
+    display: block;
+    margin: 0 0 10px;
+    padding-right: 138px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+
+#enviar {
+    display: block;
+    width: 240px;
+    height: 40px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#footer {
+    margin-top: 203px;
+}
+
+#logo {
+    margin-right: 15px;
+}

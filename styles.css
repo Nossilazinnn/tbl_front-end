@@ -1,0 +1,134 @@
+body {
+    background-image: url(./img/csgo3.png);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(42, 42, 42);
+}
+
+/*produtos*/
+nav {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#produtos {
+    font-family: arial;
+    color: rgb(223, 193, 26);
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#produtos:hover {
+    font-size: 75px;
+    transition: 0.6s;
+}
+
+/*degrade do produtos*/
+#produtos {
+    background: -webkit-linear-gradient(bottom, #ee9b0f 0%, #facc45 100%);
+    background: linear-gradient(to top, #ee9b0f 0%, #facc45 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/*faqs*/
+li {
+    margin-top: 7px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#faqs {
+    color: whitesmoke;
+    text-align: left;
+    margin-top: 15px;
+}
+
+#resposta {
+    font-size: 20px;
+    color: wheat;
+    margin-left: 10px;
+}
+
+p {
+    color: whitesmoke;
+}
+
+/*banimentos*/
+.video {
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.video h4 {
+    color: white;
+    font-size: 30px;
+}
+
+.video iframe {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+/*tabela banimentos*/
+
+.tabela_int {
+    width: 700px;
+    margin-top: 45px;
+}
+
+.txt_table {
+    width: 100%;
+    margin-left: 608px;
+}
+
+.txt_table h4 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+
+.txt_table p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.tabela {
+    margin-left: 727px;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    margin-top: 15px;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    font-size: 20px;
+}
+
+thead {
+    background-color: white;
+    color: black;
+}
+
+td {
+    border: 1px white solid;
+    padding: 3 12;
+    text-align: center;
+}
+
+th {
+    border: 1px white solid;
+    padding: 3 12;
+    text-align: center;
+}
+
+.videoetabela {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

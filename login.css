@@ -1,0 +1,52 @@
+body {
+    color: black;
+}
+
+main {
+    margin-top: 90px;
+}
+
+form {
+    border: 1px black solid;
+    background-color: #DCDCDC;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+label {
+    width: 300px;
+    margin-top: 13px;
+}
+
+.form-login {
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 400px;
+}
+
+form label {
+    display:block;
+}
+
+form input {
+    display:block;
+}
+
+#botao-login {
+    font-size: 17px;
+    width: 85px;
+    height: 35px;
+    margin: 0 auto;
+    margin-right: 82px;
+    margin-top: 19px;
+    margin-bottom: 1px;
+}
+
+#linkcadastro {
+    margin-left: 18px;
+}
+
+#clique {
+    margin-left: 63px;
+}
